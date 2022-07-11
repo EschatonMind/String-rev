@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\String rev\Source.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  String rev.vcxproj -> D:\Reza\Game Projects\C++\Basic\String rev\x64\Debug\String rev.exe
